@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS by BLACKTOWER™",
+  "description": "Kelvin's intelligent, proactive, knowledge-driven Malaysian Chinese conversational voice companion from Johor Bahru.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
